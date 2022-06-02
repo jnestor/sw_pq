@@ -5,7 +5,7 @@
 *
 **************************************************************/
 
-#include "swpq_heap_c.h"
+#include "swpq_heap.h"
 #include <stdio.h>
 
 static Element_t heap[HEAP_CAPACITY+1];
